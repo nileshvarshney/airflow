@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/nileshvarshney/opt/anaconda3/envs/airflow_venv/bin/python",
+    "python.formatting.provider": "autopep8"
+}
